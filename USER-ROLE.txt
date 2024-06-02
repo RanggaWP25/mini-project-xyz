@@ -1,0 +1,6 @@
+Admin PT XYZ 		: Full akses PT XYZ 			: 1
+Admin PT XYZ-1		: Full akses PT XYZ-1			: 2
+Admin PT XYZ-2		: Full akses PT XYZ-2			: 3
+Manager			: View Supervisor XYZ-1 dan XYZ-2	: 4
+Supervisor XYZ-1	: View all user PT XYZ-1		: 5
+Supervisor XYZ-2	: View all user PT XYZ-2		: 6

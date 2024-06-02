@@ -1,0 +1,12 @@
+body {
+    background: url("../img/bg-abstract.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.home-btn {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 190px;
+    font-size: 20px;
+}
